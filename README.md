@@ -1,4 +1,5 @@
-=== Remove Block CSS ===
+# Remove Block CSS
+
 Contributors: wpsitecare
 Author link: https://southernweb.com
 Tags: gutenberg
