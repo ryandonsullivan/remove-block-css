@@ -3,7 +3,7 @@
 - Contributors: wpsitecare
 - Author link: https://southernweb.com
 - Tags: gutenberg
-- Requires at least: 3.0.1
+- Requires at least: 5.0
 - Tested up to: 5.1
 - Stable tag: 5.0
 - License: GPLv2 or later
