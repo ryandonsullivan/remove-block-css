@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Remove Block CSS ===
 Contributors: wpsitecare
 Donate link: https://southernweb.com
 Tags: gutenberg
