@@ -14,8 +14,8 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Remove WP Block CSS
- * Plugin URI:        https://github.com/remove-block-css
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Plugin URI:        https://github.com/ryandonsullivan/remove-block-css
+ * Description:       This plugin removes the wp-block-library CSS from the front end of WordPress.
  * Version:           1.0.0
  * Author:            Ryan Sullivan
  * Author URI:        https://southernweb.com
